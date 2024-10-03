@@ -1,14 +1,17 @@
 👋 Hi, I'm Sohan Hajra!
 
+
 🔍 What Am I Doing Right Now?
 AI Engineer at Radical AI : Leading development of a full-stack HR technology web app.
 Self-Studying: Currently focusing on linear algebra in order to dive deep into ML soon.
 Recruiting: Seeking software engineering internships for Summer 2025.
 
+
 🎓 Education:
 
 Bachelor of Science in Computational Data Science and minor in Economics from the Pennsylvania State University
 Bachelor of Science (Business) in Finance from the Pennsylvania State University's Smeal College of Business
+
 
 💼 Experience:
 
@@ -18,6 +21,7 @@ AI Engineer
 Quantitative Analyst
 Venture Capital Associate
 Research Assistant
+
 
 🚀 Projects:
 
@@ -35,17 +39,22 @@ App Development Developed and launched 4 game Scouting and Pit Scouting apps on 
 
 Financial Markets Infrastructure Developed a synchronous limit order book simulator in Python. Featured trade matching, order execution, TCP/UDP connection protocol, and MVC (Model, View, Controller) structure.
 
+
 🔧 Skills:
 My Skills
 
 My Skills
 
+
 🌱 Interests:
 
 Public Speaking: I love speaking at Sales Events and Pitch competitions
+
 Exercise: I love playing squash, football and have been a state level Table Tennis player
 
 Music: Passionate about listening to music and trying to play it on the piano
+
+
 📫 Contact Me:
 
 Email: [sohancollege27@gmail.com](mailto:sohancollege27@gmail.com)

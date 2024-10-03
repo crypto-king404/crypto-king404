@@ -1,7 +1,7 @@
-#👋 Hi, I'm Sohan Hajra!
+👋 # Hi, I'm Sohan Hajra!
 
 
-#🔍 What Am I Doing Right Now?
+🔍 # What Am I Doing Right Now?
 AI Engineer at Radical AI : Leading development of a full-stack HR technology web app.
 Self-Studying: Currently focusing on linear algebra in order to dive deep into ML soon.
 Recruiting: Seeking software engineering internships for Summer 2025.

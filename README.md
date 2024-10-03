@@ -44,6 +44,7 @@ My Skills
 
 Public Speaking: I love speaking at Sales Events and Pitch competitions
 Exercise: I love playing squash, football and have been a state level Table Tennis player
+
 Music: Passionate about listening to music and trying to play it on the piano
 📫 Contact Me:
 

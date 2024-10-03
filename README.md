@@ -55,7 +55,9 @@ Exercise: I love playing squash, football and have been a state level Table Tenn
 Music: Passionate about listening to music and trying to play it on the piano
 
 
+
 📫 Contact Me:
 
 Email: [sohancollege27@gmail.com](mailto:sohancollege27@gmail.com)
+
 LinkedIn: [Sohan Hajra](https://www.linkedin.com/in/sohan-hajra-a8b496290/)

@@ -6,7 +6,7 @@ Champaign, IL • shajra2@illinois.edu • [LinkedIn](https://linkedin.com/in/so
 ---
 
 ## About Me
-I’m a James Scholar majoring in Mathematics & Computer Science at the University of Illinois at Urbana-Champaign, with prior honors coursework in Computational Data Science at Penn State. My passion lies at the intersection of advanced ML techniques and high-performance financial systems—whether that’s fine-tuning LLM pipelines for sentiment analysis or architecting low-latency data services for trading applications.
+I’m a undergrad majoring in Mathematics & Computer Science at the University of Illinois at Urbana-Champaign, with prior honors coursework in Computational Data Science at Penn State. My passion lies at the intersection of advanced ML techniques and high-performance financial systems—whether that’s fine-tuning LLM pipelines for sentiment analysis or architecting low-latency data services for trading applications.
 
 ---
 

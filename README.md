@@ -1,64 +1,55 @@
 # Sohan Hajra
 
-**Aspiring Quantitative Developer & Machine Learning Engineer**  
-Champaign, IL • shajra2@illinois.edu • [LinkedIn](https://linkedin.com/in/sohan-hajra) • [GitHub](https://github.com/crypto-king404)
+**Quantitative research · Systematic trading · Market microstructure**
 
----
+Mathematics & Computer Science graduate from the University of Illinois Urbana-Champaign (GPA: 3.76/4.00). I build research and trading systems that make assumptions, transaction costs, out-of-sample behavior, and failure modes inspectable.
 
-## About Me
-I’m a undergrad majoring in Mathematics & Computer Science at the University of Illinois at Urbana-Champaign, with prior honors coursework in Computational Data Science at Penn State. My passion lies at the intersection of advanced ML techniques and high-performance financial systems—whether that’s fine-tuning LLM pipelines for sentiment analysis or architecting low-latency data services for trading applications.
+Open to new-grad quantitative research, junior quantitative strategy, and systematic-trading roles in the United States and the UAE. UAE Golden Visa holder.
 
----
+## Current research
+
+### Systematic Trading Research Platform
+
+An independent Python research platform for testing equity strategies with explicit data validation, transaction costs, walk-forward evaluation, and attribution.
+
+- Built an OHLCV pipeline with DuckDB storage, parameter sweeps, and rolling 12-month training / 3-month out-of-sample evaluation.
+- Evaluated a SPY long/flat trend baseline across 15 OOS folds at 5 bps transaction costs.
+- Added trade-, regime-, portfolio-, and flat-period attribution to explain return drivers and benchmark shortfalls.
+- Corrected warm-up and fold-accounting errors by isolating indicator history from OOS scoring and recomputing positions, costs, trades, and compounded equity after each test boundary.
+
+| OOS trades | CAGR | Sharpe | Maximum drawdown | Market exposure |
+|---:|---:|---:|---:|---:|
+| 22 | 9.18% | 0.82 | -11.79% | 75.77% |
+
+> Research baseline only—not live, audited, or investment performance. The public release will follow tests, documentation, a methodology and limitations memo, and a one-command reproduction workflow.
+
+## Selected work
+
+**Venue and USO/WTI ETF-Futures Arbitrage — C++ team project**  
+Co-developed and backtested venue- and ETF-futures-arbitrage strategies using market-by-order data from NASDAQ, IEX, and CME. Tested timestamp normalization, quote-persistence filters, smart routing, and inventory-risk controls under execution constraints.
+
+**Portfolio Reconstruction & Performance Attribution Engine — Python**  
+Reconstructed daily NAV from brokerage ledgers, implemented time-weighted returns to separate investment performance from cash flows, and used rolling QQQ correlation to diagnose concentrated technology beta.
+
+**Published research — NLP**  
+Co-authored [“An N-Gram Framework for Sentiment and Emotion-Aware Word Association Games”](https://doi.org/10.1145/3774399.3774407), *ACM SIGAI AI Matters* 11(1), 49–58 (2025). The study combines n-gram co-occurrence and GloVe embeddings with VADER sentiment and SenticNet emotion signals.
 
 ## Experience
 
-### Artificial Intelligence Engineer Intern, Spade Labs (Oct 2024 – Dec 2024)  
-- Led R&D on an LLM-driven market-research MVP: built a generative & sentiment pipeline using Llama 2 (13B) and TweetNLP RoBERTa on SageMaker, automated Dockerized hyperparameter sweeps, and achieved sub-20 ms query latency over 1M+ embeddings
-- Fine-tuned a custom transformer with a PyTorch MLP head on a 50K B2B dataset (0.88 F1), leveraging spot instances and SageMaker Processing for cost-efficient batch evaluation
+- **Morgan Stanley — BI & Data Analytics Intern:** automated fund-performance reporting and built data-quality tooling for Equities Data Operations.
+- **The D. E. Shaw Group — Strategy & Business Development Intern:** built a quantitative market-ranking model and trading-venue intelligence for APAC expansion research.
 
-### Data Analyst Intern, Folio (Jun 2024 – Sep 2024)  
-- Built Python ETL pipelines (Pandas, Airflow, SQLAlchemy) to ingest & normalize 9K+ records, driving a 34.8% lift in marketing ROI via regression & clustering analyses
-- Optimized PostgreSQL schemas & PgBouncer pooling to cut query latency by 50%, ensuring sub-second response times
-  
-### Artificial Intelligence Engineer Intern, Reality AI Lab (May 2024 – Jun 2024)  
-- Engineered 10+ containerized microservices (Python, Docker, Kubernetes) integrating OpenAI Assistant API & Google Gemini to process 10K+ conversations at sub-second latency 
-- Developed Node.js + React feature extensions on Marvel AI’s stack, boosting user engagement by 28% and CSAT by 14.7% 
-- Built a prompt-engineering A/B testing pipeline with MLflow & Prometheus, achieving 91% response clarity & relevance
+## Technical focus
 
----
+`Python` `C++` `SQL` `Pandas` `NumPy` `scikit-learn` `PyTorch` `DuckDB` `PostgreSQL` `Snowflake` `Docker` `Linux/Bash` `Git`
 
-## Technical Skills
-- **Languages & Core:** C++, Java, R, MATLAB, Node.js, React.js, DS & Algo, ML Algorithms  
-- **ML & Data:** PyTorch, TensorFlow, NumPy, Pandas, Scikit-Learn, SQL, PostgreSQL, MongoDB, Docker  
-- **Cloud & BI:** AWS, ETL Pipelines, EDA, Excel, Power BI, Tableau 
----
+## Research principles
 
-## Education
-- **University of Illinois at Urbana-Champaign** (James Scholar)  
-  B.S. in Math & CS, GPA 3.88/4.0, expected May 2026 
-- **Pennsylvania State University** (Schreyer’s Honors)  
-  B.S. in Computational Data Science, GPA 3.88/4.0 (Aug 2023 – Dec 2024)  
-  - President Walker Award for 4.0 GPA (Spring ’24)  
-  - Dean’s List: Fall ’23, Spring ’24, Fall ’24  
+- Define the hypothesis and benchmark before tuning.
+- Keep training history separate from out-of-sample scoring.
+- Model costs, exposure, turnover, and implementation constraints.
+- Report errors, limitations, and underperformance—not only headline metrics.
 
----
+## Contact
 
-## Certifications
-- **IBM AI Engineering Professional Certificate** (Feb 2024): Python ML, Deep Learning, Keras, TensorFlow  
-- **Microsoft Power BI Data Analyst Professional Certificate** (Mar 2025): Power BI, Power Query, Dashboards, Data Visualization
-
----
-
-## Relevant Coursework
-Data Structures & Algorithms · Parallel Programming · Computer Security · Distributed Systems ·  
-Database Systems · Graph Theory · Real Analysis · Numerical Analysis · Systems Programming ·  
-Compilers & Programming Languages · Algorithmic Trading Systems 
-
----
-
-## How to Reach Me
-- 📧 shajra2@illinois.edu  
-- 💼 [LinkedIn](https://linkedin.com/in/sohan-hajra)  
-- 🐙 [GitHub](https://github.com/crypto-king404)  
-
-> **Looking forward to collaborating on cutting-edge quant, ML, and financial-engineering projects!**  
+[LinkedIn](https://www.linkedin.com/in/sohan-hajra/) · [Email](mailto:shajra2@illinois.edu)
